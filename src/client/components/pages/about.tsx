@@ -76,7 +76,7 @@ function AboutPage(): JSX.Element {
 				<a href="https://api.test.bookbrainz.org/1/docs/"> live documentation</a>.
 			</p>
 
-			<h2>Contact Us</h2>
+			<h2 className='contact-text'><b>Contact Us</b></h2>
 			<div style={{
 				alignItems: 'center',
 				display: 'flex',

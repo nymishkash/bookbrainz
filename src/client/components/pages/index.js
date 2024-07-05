@@ -113,9 +113,9 @@ class IndexPage extends React.Component {
 										</Col>
 									</Row>
 									<div className="margin-top-3">
-										<h4 className="contact-text">
+										<h3 className="contact-text"><b>
 											Contact Us
-										</h4>
+										</b></h3>
 										<div style={{
 											alignItems: 'center',
 											display: 'flex',
